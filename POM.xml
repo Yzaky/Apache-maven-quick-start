@@ -7,10 +7,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Youssef.programming</groupId>
   <artifactId>Apache-maven-quick-start</artifactId>
-  <configuration>
-  <executable>C:\Program Files\Java\jdk1.8.0_131\bin\javac.exe</executable>
-</configuration>
-  <version>1.2</version>
+  
+  <version>1.8</version>
 
 
 </project>
