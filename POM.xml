@@ -5,8 +5,11 @@
 		http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>youssef.programming</groupId>
+  <groupId>Youssef.programming</groupId>
   <artifactId>Apache-maven-quick-start</artifactId>
+  <configuration>
+  <executable>C:\Program Files\Java\jdk1.8.0_131\bin\javac.exe</executable>
+</configuration>
   <version>1.2</version>
 
 
